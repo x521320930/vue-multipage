@@ -1,0 +1,113 @@
+//sidebar
+$menuHover:#001528;
+$menuBg:#4A4A4A;
+$subMenuBg:#5c5c5c;
+
+// 登录 主题颜色
+$loginContent: #1968b6;
+// 版本号颜色 忘记密码颜色
+$versionFont:#989999;
+// 展位格
+$dirColor:rgba(0,0,0,1);
+// 跳转链接颜色
+$headerA: #0564D8;
+// 登录输入框 背景
+$loginBg: #ffffff;
+// 登录按钮颜色
+$loginbtn: #1B8CF2;
+
+//选中颜色
+$activebrColor:rgba(206, 226, 250, 1);
+$activeColor: #3D8BEA;
+//弹出框顶部颜色
+$dialogHeadColor:#3d8bea;
+
+// tabbar button 分页组件 颜色
+$comTabbarButtonpaginationBgColor: #24448E;
+// 默认白色
+$ffffff: #ffffff;
+// comm默认字体颜色
+$comDefaultFontColor: #4A4A4A;
+
+// 整体布局
+// start
+// 品牌颜色
+$layout-common-brand: #24448E;
+$layout-common-brand1: #173479;
+// 主题disabled
+$layout-common-brand-disabled:#a7bbea;
+// end
+// 辅助颜色
+// start
+// 积极颜色
+$layout-common-success: #27A1B1;
+$layout-common-success-disabled: #8ac5cd;
+// 警告
+$layout-common-alert: #FFA033;
+// 错误
+$layout-common-error: #F66868;
+// 链接颜色
+$layout-common-info: #3090F0;
+// end
+// 中性色 
+// 用于文本、背景和边框等
+// start
+// 文字标题
+$layout-common-303133: #303133;
+// 正文-黑
+$layout-common-606266:#606266;
+// 表格头部
+$layout-table-303133:#303133;
+// 正文-灰
+$layout-common-909399:#909399;
+// 正文-无效状态
+$layout-common-D5D8DE: #D5D8DE;
+// 边框色
+$layout-common-DCDFE6: #DCDFE6;
+// 分割线颜色
+$layout-common-DBDFE6: #DBDFE6;
+// 背景色
+$layout-common-EFEFEF: #EFEFEF;
+// UI为统一颜色
+$layout-common-F5F7FA: #F5F7FA;
+$layout-common-EBEDF1: #EBEDF1;
+$layout-common-1F2E4D: #1F2E4D;
+$layout-common-ECF0F5: #ECF0F5;
+// end
+// 菜单栏
+$layout-menu-width: 216px; // 菜单栏宽度
+// 移入颜色
+$layout-menu-element-hover: #3561C6; // 颜色
+$layout-menu-element-bg: $layout-common-brand1;
+// 左侧菜单栏底色
+$layout-left-menu-bg: $layout-common-brand;
+
+
+// 统一字体大小
+// 12px 备注文字/说明
+$layout-common-font-size-12: 12px;
+// 默认字号/做导航/页签/表格内文字/顶栏/详情页正文/选项卡
+$layout-common-font-size-14: 14px;
+// 正文标题
+$layout-common-font-size-16: 16px;
+// 正文标题
+$layout-common-font-size-18: 18px;
+// 特殊场景
+$layout-common-font-size-24: 24px;
+// 统一
+// 加粗
+$layout-common-font-weight-400: 400;
+$layout-common-font-weight-500: 500;
+$layout-common-font-weight-600: 600;
+
+// 字体
+// 平方与雅黑
+$layout-common-font-family-pfyh: "PingFang SC", "Microsoft YaHei";
+
+
+
+
+
+
+// 分页 宽度
+$pagination-height: 28px;
